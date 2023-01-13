@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "63c1a09abb23d83663d0f206"
+  },
+  "CodigoFactura": "P-00001",
+  "name": "Prueba desarrolo 1",
+  "Ciudad": "Tunja",
+  "TotalFactura": 18000,
+  "Subtotal": 15600,
+  "Iva": 2400,
+  "Estado": "Primerrecordatorio",
+  "Pagada": "False"
+},{
+  "_id": {
+    "$oid": "63c1a0f1bb23d83663d0f207"
+  },
+  "CodigoFactura": "P-00002",
+  "name": "Prueba desarrolo 2",
+  "Ciudad": "Bogota",
+  "TotalFactura": 25000,
+  "Subtotal": 18600,
+  "Iva": 6400,
+  "Estado": "Segundorecordatorio",
+  "Pagada": "False"
+},{
+  "_id": {
+    "$oid": "63c1a17abb23d83663d0f208"
+  },
+  "CodigoFactura": "P-00003",
+  "name": "Prueba desarrolo 3",
+  "Ciudad": "Medellin",
+  "TotalFactura": 68000,
+  "Subtotal": 56600,
+  "Iva": 11400,
+  "Estado": "Segundorecordatorio",
+  "Pagada": "True"
+}]
