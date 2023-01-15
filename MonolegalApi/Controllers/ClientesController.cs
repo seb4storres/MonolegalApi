@@ -52,7 +52,7 @@ namespace MonolegalApi.Controllers
 
             await _clientesService.UpdateAsync(id, updatedCliente);
 
-            return NoContent();
+            return Content("Se enviara un email donde tiene el mensaje: usted se encontraba en primer recordatorio de pago, su estado ahora es Segundo recordatorio, se pide hacer el pago oportuno");
         }
 
         [HttpDelete("{id:length(24)}")]
