@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "63c1a09abb23d83663d0f206"
+  },
+  "name": "Prueba desarrollo 1",
+  "codigoFactura": "P-00001",
+  "ciudad": "Pozarica",
+  "totalFactura": 18000,
+  "subtotal": 15400,
+  "iva": 2600,
+  "estado": "Primerrecordatorio",
+  "pagada": false
+},{
+  "_id": {
+    "$oid": "63c1a0f1bb23d83663d0f207"
+  },
+  "name": "Prueba desarrollo 2",
+  "codigoFactura": "P-00002",
+  "ciudad": "Bogota",
+  "estado": "Segundorecordatorio",
+  "iva": 6400,
+  "pagada": false,
+  "subtotal": 18600,
+  "totalFactura": 25000
+},{
+  "_id": {
+    "$oid": "63d55a1dde77113c10c5893a"
+  },
+  "name": "Prueba desarrollo 4",
+  "codigoFactura": "P-00004",
+  "ciudad": "Cartagena",
+  "totalFactura": 43000,
+  "subtotal": 34600,
+  "iva": 8400,
+  "estado": "Primerrecordatorio",
+  "pagada": "False"
+}]
