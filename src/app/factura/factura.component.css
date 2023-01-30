@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    height: 1px;
+    font-size: 4em;
+    margin: 1em;
+    font-weight: 800;
+}
+img {
+    height: 250px;
+    display: block;
+    margin: auto;
+}
